@@ -7,7 +7,7 @@ Built with plain HTML, CSS, and JavaScript (no framework, no build step).
 ## Structure
 - `index.html` - main page
 - `style.css` - all styling
-- `script.js` - scroll reveal animations, odometer counters, FAQ accordion, certificate/video modals, CTA rotor
+- `script.js` - scroll reveal animations, odometer counters, FAQ accordion, certificate/video modals, CTA rotor 
 - `fig-assets/` - project case study images
 - Root-level images/video - hero, about, testimonials, and CTA section media
 
